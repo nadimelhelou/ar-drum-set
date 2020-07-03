@@ -4,7 +4,7 @@ By Brian Macomber and Nadim El Helou
 
 ## Summary
 
-This project is an android application that projects a drum set onto a given image target. The user can interact with certain parts of the drum set and hear sound when a drum or cymbal is hit.
+This project is an Android application that projects a drum set onto a given image target. The user can interact with each part of the drum set and hear sound when a drum or cymbal is hit.
 
 ## User Stories
 
